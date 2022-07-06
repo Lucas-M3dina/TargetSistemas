@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\bin\Debug\net6.0\InvertendoString.exe
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\bin\Debug\net6.0\InvertendoString.deps.json
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\bin\Debug\net6.0\InvertendoString.runtimeconfig.json
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\bin\Debug\net6.0\InvertendoString.dll
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\bin\Debug\net6.0\InvertendoString.pdb
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\obj\Debug\net6.0\InvertendoString.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\obj\Debug\net6.0\InvertendoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\obj\Debug\net6.0\InvertendoString.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\obj\Debug\net6.0\InvertendoString.AssemblyInfo.cs
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\obj\Debug\net6.0\InvertendoString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\obj\Debug\net6.0\InvertendoString.dll
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\obj\Debug\net6.0\refint\InvertendoString.dll
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\obj\Debug\net6.0\InvertendoString.pdb
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\obj\Debug\net6.0\InvertendoString.genruntimeconfig.cache
+C:\Users\User\Desktop\ProcessoSeletivo_Target\InvertendoString\obj\Debug\net6.0\ref\InvertendoString.dll
